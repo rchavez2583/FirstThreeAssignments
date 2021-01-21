@@ -1,0 +1,12 @@
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/bin/Debug/netcoreapp3.1/CS133PROJECT2.deps.json
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/bin/Debug/netcoreapp3.1/CS133PROJECT2.runtimeconfig.json
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/bin/Debug/netcoreapp3.1/CS133PROJECT2.runtimeconfig.dev.json
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/bin/Debug/netcoreapp3.1/CS133PROJECT2.dll
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/bin/Debug/netcoreapp3.1/CS133PROJECT2.pdb
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.csprojAssemblyReference.cache
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.AssemblyInfoInputs.cache
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.AssemblyInfo.cs
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.csproj.CoreCompileInputs.cache
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.dll
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.pdb
+/Users/renechavez/Desktop/CS133 PROJECTS/CS133PROJECT2/CS133PROJECT2/obj/Debug/netcoreapp3.1/CS133PROJECT2.genruntimeconfig.cache
